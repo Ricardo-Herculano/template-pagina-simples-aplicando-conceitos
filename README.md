@@ -1,3 +1,3 @@
-# template-single-page-Aplicando-Conceitos
+# template-pagina-simples-aplicando-conceitos
 
-Template created applying concepts learned in my trajectory as a developer
+Template criado aplicando conceitos aprendidos em minha trajetória como desenvolvedor.
